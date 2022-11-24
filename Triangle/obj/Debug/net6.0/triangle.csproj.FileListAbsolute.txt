@@ -1,0 +1,15 @@
+/Users/olafgrzesiak/Projects/triangle/triangle/obj/Debug/net6.0/triangle.csproj.AssemblyReference.cache
+/Users/olafgrzesiak/Projects/triangle/triangle/obj/Debug/net6.0/triangle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olafgrzesiak/Projects/triangle/triangle/obj/Debug/net6.0/triangle.AssemblyInfoInputs.cache
+/Users/olafgrzesiak/Projects/triangle/triangle/obj/Debug/net6.0/triangle.AssemblyInfo.cs
+/Users/olafgrzesiak/Projects/triangle/triangle/obj/Debug/net6.0/triangle.csproj.CoreCompileInputs.cache
+/Users/olafgrzesiak/Projects/triangle/triangle/bin/Debug/net6.0/triangle
+/Users/olafgrzesiak/Projects/triangle/triangle/bin/Debug/net6.0/triangle.deps.json
+/Users/olafgrzesiak/Projects/triangle/triangle/bin/Debug/net6.0/triangle.runtimeconfig.json
+/Users/olafgrzesiak/Projects/triangle/triangle/bin/Debug/net6.0/triangle.dll
+/Users/olafgrzesiak/Projects/triangle/triangle/bin/Debug/net6.0/triangle.pdb
+/Users/olafgrzesiak/Projects/triangle/triangle/obj/Debug/net6.0/triangle.dll
+/Users/olafgrzesiak/Projects/triangle/triangle/obj/Debug/net6.0/refint/triangle.dll
+/Users/olafgrzesiak/Projects/triangle/triangle/obj/Debug/net6.0/triangle.pdb
+/Users/olafgrzesiak/Projects/triangle/triangle/obj/Debug/net6.0/triangle.genruntimeconfig.cache
+/Users/olafgrzesiak/Projects/triangle/triangle/obj/Debug/net6.0/ref/triangle.dll
