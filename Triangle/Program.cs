@@ -18,7 +18,7 @@ namespace triangle
 
 
             double circuit = Math.Round(sideA + sideB + sideC);
-            double area = Math.Sqrt(circuit / 2 * (circuit / 2 - sideA) * (circuit / 2 - sideB) * (circuit / 2 - sideC)); //triangle pattern
+            double area = Math.Sqrt(circuit / 2 * (circuit / 2 - sideA) * (circuit / 2 - sideB) * (circuit / 2 - sideC)); //triangle area pattern
             double pitG = Math.Pow(sideA, 2) + Math.Pow(sideB, 2); // pitagoras 
 
 
